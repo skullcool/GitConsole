@@ -12,6 +12,7 @@ namespace GitConsole
         {
             string x = ""; //sdf
             Console.Write(""); // comnmet
+            // buda http get istegi
         }
     }
 }
