@@ -11,6 +11,7 @@ namespace GitConsole
         static void Main(string[] args)
         {
             string x = "";
+
         }
     }
 }
