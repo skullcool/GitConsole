@@ -11,7 +11,7 @@ namespace GitConsole
         static void Main(string[] args)
         {
             string x = ""; //sdf
-
+            Console.Write(""); // comnmet
         }
     }
 }
